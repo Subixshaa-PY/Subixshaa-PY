@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Subikshaa H</h1>
 <h3 align="center">A Passionate Python Programmer from India</h3>
 
-- 🌱 I’m currently learning **DBMS,Cloud Computing**
+- 🌱 I’m currently learning **DSA, Power BI**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python,DBMS**
 
 - 📫 How to reach me **subikshaahari2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/subikshaa-h-659079282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subikshaa-h-659079282" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/subikshaa-2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subikshaa-2004/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
